@@ -14,7 +14,7 @@ hs_err_pid*
 
 #Eclipse
 .metadata/
-.recommends/
+.recommenders/
 
 #OSX
 .DS_Store
